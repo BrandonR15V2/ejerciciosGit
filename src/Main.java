@@ -6,5 +6,12 @@ public class Main {
         System.out.println("Brandon Jair Candil Rodriguez");
         System.out.println("estudiante de ingenieria de sistemas");
 
+        System.out.println("git status");
+        System.out.println("git branch");
+        System.out.println("git add.");
+        System.out.println("push origin main");
+        System.out.println("git switch -c nombre nueva de la rama");
+        System.out.println("git checkout main");
+        System.out.println("git pull origin main");
     }
 }
