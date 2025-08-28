@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("HOLA MUNDO");
         System.out.println("Brandon Jair Candil Rodriguez");
+
         System.out.println("estudiante de ingenieria de sistemas");
 
         System.out.println("git status");
@@ -13,5 +14,9 @@ public class Main {
         System.out.println("git switch -c nombre nueva de la rama");
         System.out.println("git checkout main");
         System.out.println("git pull origin main");
+
+        System.out.println("ingeniero de sistemas");
+
+
     }
 }
